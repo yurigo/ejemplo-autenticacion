@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "email": "alice@acme.com",
+        "password": "$2b$10$GjELP1IhErZc0WSw3lSGh.RpUZEsictX.haV1Uq8qvdUQM45.pUnS"
+    },
+    {
+        "id": 2,
+        "email": "bob@acme.com",
+        "password": "$2b$10$uEVk9HlBCoWiKrLGH44uCu9C2..9fVRuQgWWBvecQ9dwDKl/mH30q"
+    },
+    {
+        "id": 3,
+        "email": "charlie@acme.com",
+        "password": "$2b$10$sS3QgN7AemghpGgj2O77oO2kDW2RmmrJTg5MfPIAarlTm6z7eFNRy"
+    },
+    {
+        "id": 4,
+        "email": "dave@acme.com",
+        "password": "$2b$10$tXqoFLGkUzIf7qC/6YyaI.D.ZyNhTLpntpLfKTjyzey/YQKtSvcf6"
+    },
+    {
+        "id": 5,
+        "email": "eva@acme.com",
+        "password": "$2b$10$Gev2/i855/3/PnXeOCH9yu2fn.iJhtlN.httXpwsagGcVKtFQP8rW"
+    }
+]
